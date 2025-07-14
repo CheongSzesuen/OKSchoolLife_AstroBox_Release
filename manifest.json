@@ -1,0 +1,27 @@
+{
+    "item": {
+        "name": "OK School Life",
+        "description": "OK School Life是一款开源的校园生活模拟文字游戏\n安卓客户端请前往 https://www.bandbbs.cn/resources/3255/ 下载安装",
+        "preview": [
+            "welcome-v4.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
+        "author": [
+            {
+                "name": "WaiJade",
+                "author_url": "https://github.com/CheongSzesuen"
+            },
+            {
+                "name": "StillAlive",
+                "author_url": "https://github.com/still-alive-hhz"
+            }
+        ]
+    },
+    "downloads": {
+        "n67": {
+            "version": "0.2.3",
+            "file_name": "fun.okschoollife.mibandpro.beta.release.0.2.3.rpk"
+        }
+    }
+}
