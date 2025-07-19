@@ -1,27 +1,51 @@
 {
-    "item": {
-        "name": "OK School Life",
-        "description": "OK School Life是一款开源的校园生活模拟文字游戏\n安卓客户端请前往 https://www.bandbbs.cn/resources/3255/ 下载安装",
-        "preview": [
-            "welcome-v4.png"
-        ],
-        "icon": "icon.png",
-        "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
-        "author": [
-            {
-                "name": "WaiJade",
-                "author_url": "https://github.com/CheongSzesuen"
-            },
-            {
-                "name": "StillAlive",
-                "author_url": "https://github.com/still-alive-hhz"
-            }
-        ]
+  "item": {
+    "name": "OK School Life",
+    "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！",
+    "preview": [
+      "review-load.png",
+      "review-index.png",
+      "review-band9-index.png",
+      "review-main.png",
+      "review-main-1.png",
+      "review-main-2.png",
+      "review-band9-main.png",
+      "review-band9-main1.png",
+      "review-band9-main2.png",
+      "review-band9-main3.png",
+      "review-band9-main4.png",
+      "review-achievement.png",
+      "review-band9-achievement.png",
+      "review-about.png",
+      "review-band9-about.png",
+      "review-donation.png"
+      
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
+    "author": [
+      {
+        "name": "WaiJade",
+        "author_url": "https://github.com/CheongSzesuen"
+      },
+      {
+        "name": "StillAlive",
+        "author_url": "https://github.com/still-alive-hhz"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "0.3.0",
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
     },
-    "downloads": {
-        "n67": {
-            "version": "0.2.3",
-            "file_name": "fun.okschoollife.mibandpro.beta.release.0.2.3.rpk"
-        }
+    "o66": {
+      "version": "0.3.0",
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+    },
+    "n67": {
+      "version": "0.2.3",
+      "file_name": "fun.okschoollife.mibandpro.beta.release.0.2.3.rpk"
     }
+  }
 }
