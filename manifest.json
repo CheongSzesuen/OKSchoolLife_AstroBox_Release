@@ -19,7 +19,6 @@
       "review-about.png",
       "review-band9-about.png",
       "review-donation.png"
-      
     ],
     "icon": "icon.png",
     "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
@@ -37,15 +36,15 @@
   "downloads": {
     "n66": {
       "version": "0.3.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.1.rpk"
     },
     "o66": {
       "version": "0.3.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.1.rpk"
     },
     "n67": {
       "version": "0.2.3",
-      "file_name": "fun.okschoollife.mibandpro.beta.release.0.2.3.rpk"
+      "file_name": "fun.okschoollife.mibandpro.beta.release.0.3.0.rpk"
     }
   }
 }
