@@ -1,24 +1,24 @@
 {
   "item": {
     "name": "OK School Life",
-    "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！",
+    "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！开源在GitHub，点击上方作者链接跳转GitHub。",
     "preview": [
-      "review-load.png",
-      "review-index.png",
-      "review-band9-index.png",
-      "review-main.png",
-      "review-main-1.png",
-      "review-main-2.png",
-      "review-band9-main.png",
-      "review-band9-main1.png",
-      "review-band9-main2.png",
-      "review-band9-main3.png",
-      "review-band9-main4.png",
-      "review-achievement.png",
-      "review-band9-achievement.png",
-      "review-about.png",
-      "review-band9-about.png",
-      "review-donation.png"
+      "review/bandPro/review-load.png",
+      "review/bandPro/review-index.png",
+      "review/bandPro/review-main.png",
+      "review/bandPro/review-main-1.png",
+      "review/bandPro/review-main-2.png",
+      "review/bandPro/review-about.png",
+      "review/bandPro/review-achievement.png",
+      "review/bandPro/review-donation.png",
+      "review/band/review-band-index.png",
+      "review/band/review-band-main.png",
+      "review/band/review-band-main1.png",
+      "review/band/review-band-main2.png",
+      "review/band/review-band-main3.png",
+      "review/band/review-band-main4.png",
+      "review/band/review-band-about.png",
+      "review/band/review-band-achievement.png"
     ],
     "icon": "icon.png",
     "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
@@ -36,15 +36,15 @@
   "downloads": {
     "n66": {
       "version": "0.3.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.1.rpk"
+      "file_name": "rpk/band/fun.okschoollife.miband.beta.release.0.3.2.rpk"
     },
     "o66": {
       "version": "0.3.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.1.rpk"
+      "file_name": "rpk/band/fun.okschoollife.miband.beta.release.0.3.2.rpk"
     },
     "n67": {
       "version": "0.2.3",
-      "file_name": "fun.okschoollife.mibandpro.beta.release.0.3.0.rpk"
+      "file_name": "rpk/bandPro/fun.okschoollife.mibandpro.beta.release.0.3.0.rpk"
     }
   }
 }
