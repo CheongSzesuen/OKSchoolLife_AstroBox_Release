@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "fun.okschoollife.miband.beta",
+    "id": "fun.okschoollife",
     "restype": "quick_app",
     "name": "OK School Life",
     "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！开源在GitHub，点击上方作者链接跳转GitHub。",
@@ -38,26 +38,31 @@
   "links": [
     {
       "icon": "",
-      "title": "开源地址",
+      "title": "手环开源地址",
+      "url": "https://github.com/CheongSzesuen/OK-School-Life-MiBand9"
+    },
+    {
+      "icon": "",
+      "title": "手环Pro开源地址",
       "url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro"
     }
   ],
   "downloads": {
   "xmb9": {
-    "version": "0.3.2",
-    "file_name": "rpk/band/fun.okschoollife.miband.beta.release.0.3.2.rpk"
+    "version": "0.3.3",
+    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
   },
   "xmb10": {
-    "version": "0.3.2",
-    "file_name": "rpk/band/fun.okschoollife.miband.beta.release.0.3.2.rpk"
+    "version": "0.3.3",
+    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
   },
   "xmb10nfc": {
-    "version": "0.3.2",
-    "file_name": "rpk/band/fun.okschoollife.miband.beta.release.0.3.2.rpk"
+    "version": "0.3.3",
+    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
   },
   "xmb9p": {
-    "version": "0.3.0",
-    "file_name": "rpk/bandPro/fun.okschoollife.mibandpro.beta.release.0.3.0.rpk"
+    "version": "0.3.3",
+    "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
   }
 },
   "ext": {}
