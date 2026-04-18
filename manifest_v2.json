@@ -1,29 +1,29 @@
 {
   "item": {
-    "id": "fun.okschoollife",
-    "restype": "quick_app",
     "name": "OK School Life",
     "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！开源在GitHub，点击上方作者链接跳转GitHub。",
     "preview": [
-      "review/bandPro/review-load.png",
-      "review/bandPro/review-index.png",
-      "review/bandPro/review-main.png",
-      "review/bandPro/review-main-1.png",
-      "review/bandPro/review-main-2.png",
-      "review/bandPro/review-about.png",
-      "review/bandPro/review-achievement.png",
-      "review/bandPro/review-donation.png",
-      "review/band/review-band-index.png",
-      "review/band/review-band-main.png",
-      "review/band/review-band-main1.png",
-      "review/band/review-band-main2.png",
-      "review/band/review-band-main3.png",
-      "review/band/review-band-main4.png",
-      "review/band/review-band-about.png",
-      "review/band/review-band-achievement.png"
+      "review/NextGen/Band10-5-2026-04-18-12-36-21.png",
+      "review/NextGen/Band10-5-2026-04-18-12-36-36.png",
+      "review/NextGen/Band10-5-2026-04-18-12-36-55.png",
+      "review/NextGen/Band10-5-2026-04-18-12-37-05.png",
+      "review/NextGen/BandPro-5-2026-04-18-12-36-24.png",
+      "review/NextGen/BandPro-5-2026-04-18-12-36-39.png",
+      "review/NextGen/BandPro-5-2026-04-18-12-36-48.png",
+      "review/NextGen/BandPro-5-2026-04-18-12-37-24.png",
+      "review/NextGen/RW-5-2026-04-18-12-30-00.png",
+      "review/NextGen/RW-5-2026-04-18-12-30-41.png",
+      "review/NextGen/RW-5-2026-04-18-12-31-06.png",
+      "review/NextGen/RW-5-2026-04-18-12-31-31.png",
+      "review/NextGen/RW-5-2026-04-18-12-31-44.png",
+      "review/NextGen/RW-5-2026-04-18-12-32-03.png",
+      "review/NextGen/watch-5-2026-04-18-12-30-33.png",
+      "review/NextGen/watch-5-2026-04-18-12-30-54.png",
+      "review/NextGen/watch-5-2026-04-18-12-31-17.png",
+      "review/NextGen/watch-5-2026-04-18-12-31-27.png"
     ],
     "icon": "icon.png",
-    "cover": "head/head@1x.png",
+    "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
     "author": [
       {
         "name": "WaiJade",
@@ -33,37 +33,108 @@
         "name": "StillAlive",
         "bindABAccount": false
       }
-    ]
+    ],
+    "id": "cn.waijade.okschoollife",
+    "restype": "quick_app",
+    "cover": "https://raw.githubusercontent.com/CheongSzesuen/OKSchoolLife_AstroBox_Release/refs/heads/main/head/head%401x.png"
+  },
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+    }
   },
   "links": [
     {
-      "icon": "",
-      "title": "手环开源地址",
-      "url": "https://github.com/CheongSzesuen/OK-School-Life-MiBand9"
+      "icon": "github-logo",
+      "title": "开源地址",
+      "url": "https://github.com/CheongSzesuen/OK-School-Life"
     },
     {
-      "icon": "",
-      "title": "手环Pro开源地址",
-      "url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro"
+      "icon": "browser",
+      "title": "个人主页",
+      "url": "https://waijade.cn/"
     }
   ],
-  "downloads": {
-  "xmb9": {
-    "version": "0.3.3",
-    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-  },
-  "xmb10": {
-    "version": "0.3.3",
-    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-  },
-  "xmb10nfc": {
-    "version": "0.3.3",
-    "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-  },
-  "xmb9p": {
-    "version": "0.3.3",
-    "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
+  "ext": {
+    "enableAstroBoxCreatorFeatures": false,
+    "downloads": {
+      "xmb9": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmb9p": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmb10": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmb10nfc": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmws3": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmws4": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmrw5": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmrw6": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmrw5xring": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      },
+      "xmws4xring": {
+        "version": "1.0.0",
+        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
+      }
+    }
   }
-},
-  "ext": {}
 }
