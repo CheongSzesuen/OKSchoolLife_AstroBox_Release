@@ -1,6 +1,10 @@
 {
   "item": {
+    "id": "cn.waijade.okschoollife",
+    "restype": "quick_app",
     "name": "OK School Life",
+    "icon": "icon.png",
+    "cover": "head/head@1x.png",
     "description": "OK School Life 是一款文字类的校园生活模拟游戏，在游戏中，你会遇到各色的事件，做出你的选择，避免被开除而结束游戏！开源在GitHub，点击上方作者链接跳转GitHub。",
     "preview": [
       "review/NextGen/Band10-5-2026-04-18-12-36-21.png",
