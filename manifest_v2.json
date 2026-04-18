@@ -22,8 +22,6 @@
       "review/NextGen/watch-5-2026-04-18-12-31-17.png",
       "review/NextGen/watch-5-2026-04-18-12-31-27.png"
     ],
-    "icon": "icon.png",
-    "source_url": "https://github.com/CheongSzesuen/OK-School-Life-MiBandPro",
     "author": [
       {
         "name": "WaiJade",
@@ -33,10 +31,7 @@
         "name": "StillAlive",
         "bindABAccount": false
       }
-    ],
-    "id": "cn.waijade.okschoollife",
-    "restype": "quick_app",
-    "cover": "https://raw.githubusercontent.com/CheongSzesuen/OKSchoolLife_AstroBox_Release/refs/heads/main/head/head%401x.png"
+    ]
   },
   "downloads": {
     "xmb9": {
@@ -93,48 +88,4 @@
     }
   ],
   "ext": {
-    "enableAstroBoxCreatorFeatures": false,
-    "downloads": {
-      "xmb9": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmb9p": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmb10": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmb10nfc": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmws3": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmws4": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmrw5": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmrw6": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmrw5xring": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      },
-      "xmws4xring": {
-        "version": "1.0.0",
-        "file_name": "rpk/NextGen/cn.waijade.okschoollife.release.1.0.0.rpk"
-      }
-    }
-  }
 }
